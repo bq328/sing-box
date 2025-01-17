@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "etoro.com",
+        "etoroasia-investing.com",
+        "tw.tradingview.com",
+        "cn.tradingview.com",
+        "opensea.io",
+        "tradingview.com",
+        "881903.com",
+        "hoy.tv",
+        "metroradio.com.hk",
+        "nowtv.now.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "etoro.com",
+        "etoroasia-investing.com",
+        "tw.tradingview.com",
+        "cn.tradingview.com",
+        "opensea.io",
+        "tradingview.com",
+        "881903.com",
+        "hoy.tv",
+        "metroradio.com.hk",
+        "now.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "etoro",
+        "tradingview",
+        "opensea",
+        "881903",
+        "hoy",
+        "metroradio",
+        "now"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "23.222.130.126/32",
+        "104.18.43.116/32",
+        "108.160.163.108/32",
+		"104.244.46.85/32",
+		"108.160.166.42/32",
+		"185.45.7.165/32",
+		"162.125.2.3/32",
+		"157.240.12.36/32",
+        "99.83.219.143/32"
+      ]
+    }
+  ]
+}
